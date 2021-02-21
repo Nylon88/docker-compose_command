@@ -1,0 +1,6 @@
+//  イメージ＆コンテナ作成　→　yml file内のサービスを一つだけ指定するときに使う
+docker-compose run
+
+//  イメージ＆コンテナ作成　→　yml file内全てのサービスを指定するときに使う
+docker-compose up
+
